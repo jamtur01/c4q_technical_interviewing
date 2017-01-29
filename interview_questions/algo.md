@@ -1,3 +1,5 @@
+# Algorithms questions
+
 Given the word list:
 
 ```

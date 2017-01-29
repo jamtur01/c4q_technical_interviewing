@@ -17,6 +17,6 @@ word_list = [ "hello", "helicopter", "shaving", "door", "aluminum", "pen" ]
 
 2. Reverse the letters of each word in the array and sort from shortest to longest.
 
-```ruby 
-word_list.sort! { |a, b| a.length <=> b.length }.map(&:reverse!)
-```
+  ```ruby 
+  word_list.sort! { |a, b| a.length <=> b.length }.map(&:reverse!)
+  ```

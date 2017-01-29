@@ -3,6 +3,7 @@ Given the word list:
 ```
 word_list = [ "hello", "helicopter", "shaving", "door", "aluminum", "pen" ]
 ```
+
 1. Write a function that prints out the longest word and its length, the shortest word and its length, and the average word length
 
 ```ruby
